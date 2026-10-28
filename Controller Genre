@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "message": "Genre berhasil dibuat",
+    "data": {
+        "name": "Fantasy",
+        "updated_at": "2026-10-28T15:07:37.000000Z",
+        "created_at": "2026-10-28T15:07:37.000000Z",
+        "id": 1
+    }
+}
